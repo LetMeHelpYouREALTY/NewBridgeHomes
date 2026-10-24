@@ -4,7 +4,7 @@ import Image from "next/image";
 export const metadata: Metadata = {
   title: "Team | New Bridge Homes",
   description:
-    "Meet Dr. Jan Duffy, licensed REALTOR at Berkshire Hathaway HomeServices Nevada Properties.",
+    "Meet Dr. Jan Duffy, licensed REALTOR in real estate since 1983.",
   alternates: { canonical: "/team" },
 };
 
@@ -28,8 +28,7 @@ export default function TeamPage() {
           />
           <div>
             <h2>Licensed REALTOR</h2>
-            <p>License S.0197614.LLC</p>
-            <p>Berkshire Hathaway HomeServices Nevada Properties</p>
+            <p>Top 1% Las Vegas REALTOR® · In real estate since 1983</p>
             <p>
               Specialties include luxury homes, 55+ communities, relocation support, and
               investment properties throughout Las Vegas.

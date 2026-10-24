@@ -88,6 +88,9 @@ export default function RootLayout({
               <p>Sun: Closed</p>
             </div>
           </div>
+          <div className="container">
+            <p>Berkshire Hathaway HomeServices Nevada Properties since September 2008 · License S.0197614.LLC</p>
+          </div>
         </footer>
       </body>
     </html>

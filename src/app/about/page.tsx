@@ -22,8 +22,8 @@ export default function AboutPage() {
           relationship-first real estate service.
         </p>
         <p>
-          Dr. Jan Duffy, License S.0197614.LLC, serves clients through Berkshire Hathaway
-          HomeServices Nevada Properties.
+          Dr. Jan Duffy, a licensed REALTOR® in real estate since 1983, serves clients across
+          the Las Vegas Valley.
         </p>
       </section>
     </main>
