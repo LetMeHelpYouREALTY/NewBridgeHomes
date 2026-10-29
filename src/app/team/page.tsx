@@ -4,7 +4,7 @@ import Image from "next/image";
 export const metadata: Metadata = {
   title: "Team | New Bridge Homes",
   description:
-    "Meet Dr. Jan Duffy, licensed REALTOR in real estate since 1983.",
+    "Meet Dr. Jan Duffy, licensed REALTOR licensed since 2008 · 35 years in Las Vegas.",
   alternates: { canonical: "/team" },
 };
 
@@ -28,7 +28,7 @@ export default function TeamPage() {
           />
           <div>
             <h2>Licensed REALTOR</h2>
-            <p>Top 1% Las Vegas REALTOR® · In real estate since 1983</p>
+            <p>Las Vegas REALTOR® · Licensed since 2008 · 35 years in Las Vegas</p>
             <p>
               Specialties include luxury homes, 55+ communities, relocation support, and
               investment properties throughout Las Vegas.
