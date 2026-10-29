@@ -22,7 +22,7 @@ export default function AboutPage() {
           relationship-first real estate service.
         </p>
         <p>
-          Dr. Jan Duffy, a licensed REALTOR® in real estate since 1983, serves clients across
+          Dr. Jan Duffy, a REALTOR® licensed since 2008 · 35 years in Las Vegas, serves clients across
           the Las Vegas Valley.
         </p>
       </section>
